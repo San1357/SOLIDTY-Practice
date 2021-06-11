@@ -28,6 +28,9 @@ step1 : pull a Docker image
 
        $ docker run ethereum/solc:stable -version
        
+
+Method 3:
+Use can use Remix.
         
 
 
