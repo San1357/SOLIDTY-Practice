@@ -31,7 +31,15 @@ step1 : pull a Docker image
 
 Method 3:
 Use can use Remix.
-        
+
+How To use Remix :
+step1 : compile
+step2 : Deploy
+step3 : at address - 0x...................
+step4 : use the function button.
+ 
+
+
 
 
 
