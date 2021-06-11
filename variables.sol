@@ -31,6 +31,9 @@ VARIABLES :
                 |
                 |--- Internal
                 |
-                                     
+
+
+Note : Next Topic is Operator i'll not prepare Note about it because it same as in python(OPERATORS).
+        
 
 
